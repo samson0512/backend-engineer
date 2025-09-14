@@ -2,7 +2,7 @@
 A comprehensive RESTful API for a simple project management system, built with FastAPI, SQLAlchemy, and containerized with Docker for easy setup and deployment.
 
 # Features
-"-User Authentication:" JWT-based authentication for secure access.
+User Authentication:JWT-based authentication for secure access.
 
 User Management: Create and manage user accounts.
 
