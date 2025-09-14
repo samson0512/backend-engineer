@@ -1,7 +1,7 @@
-RESTful API for Project Management
+# RESTful API for Project Management
 A comprehensive RESTful API for a simple project management system, built with FastAPI, SQLAlchemy, and containerized with Docker for easy setup and deployment.
 
-Features
+# Features
 User Authentication: JWT-based authentication for secure access.
 
 User Management: Create and manage user accounts.
@@ -10,7 +10,7 @@ Project Management: Create, view, update, and delete projects.
 
 Task Management: Create, view, update, and delete tasks within projects.
 
-Getting Started
+# Getting Started
 The recommended way to run this project is with Docker.
 
 Prerequisites:
